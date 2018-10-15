@@ -227,9 +227,7 @@ input[type=submit] {
   }
 
 
-  .auth-image {
-    width: 200px;
-  }
+  
 }
 
 @media screen and (max-width: 768px) {
@@ -239,9 +237,7 @@ input[type=submit] {
   }
 
   
-  .auth-image {
-    width: 200px;
-  }
+ 
 } 
 @media screen and (max-width: 640px) {
   
@@ -249,8 +245,6 @@ input[type=submit] {
     width: 980;
   }
  
-  .auth-image {
-    width: 200px;
-  }
+  
 }
 
