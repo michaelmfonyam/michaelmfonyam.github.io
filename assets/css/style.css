@@ -220,3 +220,37 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+@media screen and (max-width: 980px) {
+
+  .work {
+    width: 980;
+  }
+
+
+  .auth-image {
+    width: 980px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  
+  .work {
+    width: 768;
+  }
+
+  
+  .auth-image {
+    width: 768px;
+  }
+} 
+@media screen and (max-width: 640px) {
+  
+  .work {
+    width: 640;
+  }
+ 
+  .auth-image {
+    width: 640px;
+  }
+}
+
