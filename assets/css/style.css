@@ -235,7 +235,9 @@ input[type=submit] {
   .work {
     width: 768;
   }
-
+  p {
+    float: left;
+  }
   
  
 } 
@@ -244,7 +246,9 @@ input[type=submit] {
   .work {
     width: 980;
   }
- 
+  p {
+    float: left;
+  }
   
 }
 
