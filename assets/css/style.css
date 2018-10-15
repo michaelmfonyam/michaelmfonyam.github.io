@@ -223,11 +223,11 @@ input[type=submit] {
 @media screen and (max-width: 980px) {
 
   .work {
-    width: 980;
+    width: 980px;
   }
-  .auth-image{
-  width: 980px;
-  }
+
+
+ 
 
   
 }
@@ -235,28 +235,31 @@ input[type=submit] {
 @media screen and (max-width: 768px) {
   
   .work {
-    width: 768;
+    width: 768px;
   }
+
   p {
     float: left;
   }
-  .auth-image{
-    width: 768px;
+ 
+  
   }
   
+  
  
-} 
+
 @media screen and (max-width: 640px) {
   
   .work {
-    width: 980;
+    width: 640px;
   }
   p {
     float: left;
   }
-  .auth-image{
-    width: 640px;
+  
+  
   }
   
-}
+  
+
 
